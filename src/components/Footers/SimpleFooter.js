@@ -76,7 +76,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="dribbble"
-                  href="https://dribbble.com/creativetim"
+                  href="https://twitter.com/ashutosh_244"
                   id="tooltip829810202"
                   target="_blank"
                 >
@@ -90,7 +90,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/ashutosh-244"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -129,7 +129,7 @@ class SimpleFooter extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com/presentation?ref=adsr-footer"
+                      href="https://twitter.com/ashutosh_244"
                       target="_blank"
                     >
                       About Us
@@ -137,7 +137,7 @@ class SimpleFooter extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="http://blog.creative-tim.com?ref=adsr-footer"
+                      href="https://twitter.com/ashutosh_244r"
                       target="_blank"
                     >
                       Blog
@@ -145,7 +145,7 @@ class SimpleFooter extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://github.com/creativetimofficial/argon-design-system-react/blob/master/LICENSE.md"
+                      href="https://github.com/ashutosh-244/full-stack/blob/main/LICENSE.md"
                       target="_blank"
                     >
                       MIT License
