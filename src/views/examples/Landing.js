@@ -16,7 +16,7 @@
 
 */
 import React from "react";
-import technologies from '../../assets/img/brand/technologies.png';
+import technologies from '../../assets/img/brand/tech-stack_resized.jpg';
 // nodejs library that concatenates classes
 import classnames from "classnames";
 
@@ -58,7 +58,7 @@ class Landing extends React.Component {
         <main ref="main">
           <div className="position-relative">
             {/* shape Hero */}
-            <section className="section section-lg section-shaped pb-250">
+            <section className="section section-lg section-shaped pb-200">
               <div className="shape shape-style-1 shape-default">
                 <span />
                 <span />
@@ -72,8 +72,8 @@ class Landing extends React.Component {
               </div>
               <Container className="py-lg-md d-flex">
                 <div className="col px-0">
-                  <Row>
-                    <Col lg="5">
+                  <Row className="justify-content-center">
+                    <Col lg="6">
                       <h1 className="display-3 text-white">
                       Full Stack Development
                       
@@ -89,9 +89,9 @@ class Landing extends React.Component {
                       </p>
 
                     </Col>
-                    <Col lg="5">
+                    <Col lg="4">
                     <div>
-      <img src={technologies} alt="My Image" />
+      <img src={technologies}  alt="My Image" />
     </div>
                                           </Col>
                   </Row>

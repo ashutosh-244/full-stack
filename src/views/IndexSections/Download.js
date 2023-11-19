@@ -37,7 +37,7 @@ class Download extends React.Component {
                 <h2 className="display-3">
                   Do you love this coding and building awesome apps{" "}
       
-                  <span className="text-success">
+                  <span className="lead text-white">
                   Join our full-stack training program/project and embark on a transformative journey where innovation meets learning. Unleash your potential, gain invaluable skills, and be part of a community that fosters creativity and growth. Together, let's build a future where your aspirations meet limitless opportunities!
            
                   </span>
